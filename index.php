@@ -14,7 +14,10 @@
 		        </td>
 			<td>
 				<h1 id = "message"><?php echo "Think Before You Talk!"; ?></h1>
-				<p class='description'></p> Talk To The Hand <span class="blue">WatsonTourGuideApplication</span>.
+				<p class='description'></p> Talk To The Hand 
+			        <tr>
+				     <td> class="blue">WatsonTourGuideApplication</td>
+				</tr>
 			</td>
 		</tr>
 	</table>
