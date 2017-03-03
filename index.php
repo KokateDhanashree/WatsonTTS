@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="style.css" />
 </head>
 <body>
-	<background-image: url('abcd11.jpg')/>
+	<body> <background-image: url('abcd11.jpg')/> </body>
 	<table>
 		<tr>
 			<td style='width: 30%;'>
