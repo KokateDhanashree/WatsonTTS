@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PHP Starter Application</title>
+	<title>ISSC WatsonTourGuide</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="stylesheet" href="style.css" />
 </head>
@@ -12,8 +12,8 @@
 				<img class = 'newappIcon' src='images/tour_guide.png'>
 			</td>
 			<td>
-				<h1 id = "message"><?php echo "Hello World!"; ?></h1>
-				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application</span>.
+				<h1 id = "message"><?php echo "Think Before You Talk!"; ?></h1>
+				<p class='description'></p> Talk To The Hand <span class="blue">WatsonTourGuideApplication</span>.
 			</td>
 		</tr>
 	</table>
