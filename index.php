@@ -14,7 +14,9 @@
 		        </td>
 			<td>
 				<h1 id = "message"><?php echo "Think Before You Talk!"; ?></h1>
+				
 				<p class='description'></p> Talk To The Hand 
+				
 			        <tr>
 				    <h1 id = "message"><?php echo " WatsonTourGuideApplication"; ?></h1>
 				</tr> 
