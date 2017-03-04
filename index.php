@@ -16,7 +16,7 @@
 				<h1 id = "message"><?php echo "Think Before You Talk!"; ?></h1>
 				<p class='description'></p> Talk To The Hand 
 			        <tr>
-				     <span style="color: #000000"/>; WatsonTourGuideApplication
+				     <span style='color: #000000;'/> WatsonTourGuideApplication
 				</tr> 
 			</td>
 		</tr>
